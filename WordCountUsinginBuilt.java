@@ -6,10 +6,8 @@ public class WordCountUsinginBuilt {
         System.out.print("Enter a string: ");
         String inputString = scanner.nextLine();
         
-        // Trim leading and trailing whitespace
         inputString = inputString.trim();
         
-        // Split the string into an array of words
         String[] words = inputString.split("\\s+");
         
         // Count the number of words
