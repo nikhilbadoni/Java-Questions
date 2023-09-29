@@ -1,3 +1,7 @@
+/*
+WAP to find sum of 10 integers and print the sum with a proper SOP statement.
+using for loop
+ */
 import java.util.Scanner;
 public class StudentMark {
     public static void main(String args[]){
